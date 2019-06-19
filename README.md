@@ -1,1 +1,1 @@
-# onlineMusicShool
+# onlineMusicSchool
